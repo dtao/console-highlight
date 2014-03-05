@@ -14,6 +14,6 @@ console.log(highlight('javascript to highlight', {
 }));
 ```
 
-Example:
+Example output (using the 'monokai' theme):
 
 ![Console output](http://i.imgur.com/1tDoa0x.png)
