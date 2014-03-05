@@ -1,0 +1,25 @@
+{
+  "name": "console-highlight",
+  "version": "0.1.0",
+  "description": "Syntax highlighting in the console",
+  "main": "consoleHighlight.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dtao/console-highlight"
+  },
+  "keywords": [
+    "syntax",
+    "highlighting",
+    "console",
+    "terminal"
+  ],
+  "author": "Dan Tao <daniel.tao@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtao/console-highlight/issues"
+  },
+  "dependencies": {
+    "htmlout": "~ 0.1.2",
+    "highlight.js": "~ 8.0.0"
+  }
+}
