@@ -16,7 +16,11 @@ console.log(highlight('javascript to highlight', {
 
 Example output (using the 'monokai' theme):
 
-![Console output](http://i.imgur.com/1tDoa0x.png)
+![Example - Monokai](http://i.imgur.com/1tDoa0x.png)
+
+Another example (using the 'solarized_dark' theme):
+
+![Example - Solarized Dark](http://i.imgur.com/MAu1uZJ.png)
 
 ## How it works
 
